@@ -30,7 +30,7 @@ class Person(object):
         # TODO: The method Should return a Boolean showing if they survived.
         return self.is_alive
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     # This section is incomplete finish it and use it to test your Person class
     # TODO Define a vaccinated person and check their attributes
     vaccinated_person = Person(1, True)
@@ -44,11 +44,11 @@ if __name__ == "__main__":
     # TODO Test unvaccinated_person's attributes here...
     print(f'ID: {unvaccinated_person._id}')
     print(f'Vaccinated: {unvaccinated_person.is_vaccinated}')
-    print(f'Infection: {unvaccinated_person.infection}', "\n")
+    print(f'Infection: {unvaccinated_person.infection}\n')
 
     # Test an infected person. An infected person has an infection/virus
     # Create a Virus object to give a Person object an infection
-    virus = Virus("Dysentery", 0.7, 0.2)
+    virus = Virus('Dysentery', 0.7, 0.2)
     # Create a Person object and give them the virus infection
     infected_person = Person(3, False, virus)
     # TODO: complete your own assert statements that test
@@ -94,7 +94,7 @@ if __name__ == "__main__":
     # For example if the mortality rate is 0.2 rough 20% of the people 
     # should succumb. 
     print(f'People who survived: {did_survive}')
-    print(f'People who did not survive: {did_not_survive}', "\n")
+    print(f'People who did not survive: {did_not_survive}\n')
 
     # Stretch challenge! 
     # Check the infection rate of the virus by making a group of 
