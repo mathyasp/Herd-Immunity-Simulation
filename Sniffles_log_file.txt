@@ -1,0 +1,190 @@
+Population Size: 1000
+Vaccination Percentage: 0.1
+Virus Name: Sniffles
+Mortality Rate: 0.12
+Basic Reproduction Number: 0.5
+Date of Simulation: 2023-12-03
+
+
+----------------------------
+Time Step Number: 1
+----------------------------
+
+Number of New Infections: 462
+Number of New Deaths: 49
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 951
+Total Number of Deaths: 49
+Total Number of Vaccinations Administered: 413
+
+
+
+
+----------------------------
+Time Step Number: 2
+----------------------------
+
+Number of New Infections: 282
+Number of New Deaths: 34
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 917
+Total Number of Deaths: 83
+Total Number of Vaccinations Administered: 661
+
+
+
+
+----------------------------
+Time Step Number: 3
+----------------------------
+
+Number of New Infections: 158
+Number of New Deaths: 32
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 885
+Total Number of Deaths: 115
+Total Number of Vaccinations Administered: 787
+
+
+
+
+----------------------------
+Time Step Number: 4
+----------------------------
+
+Number of New Infections: 95
+Number of New Deaths: 14
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 871
+Total Number of Deaths: 129
+Total Number of Vaccinations Administered: 868
+
+
+
+
+----------------------------
+Time Step Number: 5
+----------------------------
+
+Number of New Infections: 66
+Number of New Deaths: 11
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 860
+Total Number of Deaths: 140
+Total Number of Vaccinations Administered: 923
+
+
+
+
+----------------------------
+Time Step Number: 6
+----------------------------
+
+Number of New Infections: 43
+Number of New Deaths: 3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 857
+Total Number of Deaths: 143
+Total Number of Vaccinations Administered: 963
+
+
+
+
+----------------------------
+Time Step Number: 7
+----------------------------
+
+Number of New Infections: 11
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 857
+Total Number of Deaths: 143
+Total Number of Vaccinations Administered: 974
+
+
+
+
+----------------------------
+Time Step Number: 8
+----------------------------
+
+Number of New Infections: 17
+Number of New Deaths: 4
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 853
+Total Number of Deaths: 147
+Total Number of Vaccinations Administered: 987
+
+
+
+
+----------------------------
+Time Step Number: 9
+----------------------------
+
+Number of New Infections: 10
+Number of New Deaths: 1
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 852
+Total Number of Deaths: 148
+Total Number of Vaccinations Administered: 996
+
+
+
+
+----------------------------
+Time Step Number: 10
+----------------------------
+
+Number of New Infections: 9
+Number of New Deaths: 3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 849
+Total Number of Deaths: 151
+Total Number of Vaccinations Administered: 1002
+
+
+
+
+----------------------------
+Time Step Number: 11
+----------------------------
+
+Number of New Infections: 3
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 849
+Total Number of Deaths: 151
+Total Number of Vaccinations Administered: 1005
+
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+Number of Survivors: 849
+Total Number of Deaths: 151
+Total Number of Vaccinations: 1105
+Reason for Simulation Ending: All living people have been vaccinated.
+Total Number of Interactions: 11000
+Newly Vaccinated Count: 1005

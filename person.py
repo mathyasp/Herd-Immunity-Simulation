@@ -124,7 +124,7 @@ if __name__ == '__main__':
     print(f'People who became vaccinated: {became_vaccinated}\n')
     
 
-    # Test 1
+    # Additional test 1
     virus1 = Virus('HIV', 0.8, 0.3)
 
     uninfected_people1 = []
@@ -145,7 +145,7 @@ if __name__ == '__main__':
     print(f'Virus infection rate out of 100: {int(virus1.repro_rate * 100)}')
     print(f'People who became vaccinated: {became_vaccinated1}\n')
 
-    # Test 2
+    # Additional test 2
     virus2 = Virus('Ebola', 0.4, 0.9)
 
     uninfected_people2 = []
@@ -167,7 +167,7 @@ if __name__ == '__main__':
     print(f'People who became vaccinated: {became_vaccinated2}\n')
 
 
-    # Test 3
+    # Additional test 3
     virus3 = Virus('Covid', 0.6, 0.2)
 
     uninfected_people3 = []
