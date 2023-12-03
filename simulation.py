@@ -10,7 +10,7 @@ class Simulation(object):
     def __init__(self, virus, pop_size, vacc_percentage, initial_infected=1):
         # TODO: Create a Logger object and bind it to self.logger.
         # Remember to call the appropriate logger method in the corresponding parts of the simulation.
-        self.logger = Logger(f'{virus_name}_log_file.txt')
+        self.logger = Logger(f'{virus.name}_log_file.txt')
         
         # TODO: Store the virus in an attribute
         self.virus = virus
@@ -32,6 +32,7 @@ class Simulation(object):
         self.newly_infected = []
         self.newly_dead = []
         self.interaction_count = 0
+        self.vaccine_saves = 0
 
 
 
@@ -98,7 +99,7 @@ class Simulation(object):
         newly_infected_count = infected_count - self.initial_infected
         total_vaccination_count = self.vaccination_count + self.initial_vaccination_count
         reason_for_ending = 'The entire population has died.' if fatality_count == len(self.population) else 'All living people have been vaccinated.'
-        self.logger.log_final_stats(self.pop_size, fatality_count, total_vaccination_count, reason_for_ending, self.interaction_count, self.vaccination_count)
+        self.logger.log_final_stats(self.pop_size, fatality_count, total_vaccination_count, reason_for_ending, self.interaction_count, self.vaccination_count, newly_infected_count, len(self.population), self.vaccine_saves)
 
 
     def time_step(self, time_step_counter):
@@ -161,6 +162,7 @@ class Simulation(object):
             if person.did_survive_infection():
                 self.vaccination_count += 1
                 person.is_vaccinated = True
+                self.vaccine_saves += 1
             else:
                 person.is_alive = False
                 self.pop_size -= 1
@@ -168,32 +170,32 @@ class Simulation(object):
 
 
 if __name__ == '__main__':
-    # # Test your simulation here
-    # virus_name = 'Sniffles'
-    # repro_num = 0.5
-    # mortality_rate = 0.12
+    # Test your simulation here
+    virus_name = 'Sniffles'
+    repro_num = 0.5
+    mortality_rate = 0.12
 
-    # # Set some values used by the simulation
-    # pop_size = 1000
-    # vacc_percentage = 0.1
-    # initial_infected = 10
+    # Set some values used by the simulation
+    pop_size = 1000
+    vacc_percentage = 0.1
+    initial_infected = 10
 
-    # To enable CLI inputs
-    parser = argparse.ArgumentParser()
-    parser.add_argument('pop_size', metavar='pop_size', type=int, help='Population size as integer')
-    parser.add_argument('vacc_percentage', metavar='vacc_percentage', type=float, help='Vaccination percentage as float')
-    parser.add_argument('virus_name', metavar='virus_name', type=str, help='Virus name as string')
-    parser.add_argument('mortality_rate', metavar='mortality_rate', type=float, help='Mortality rate as float')
-    parser.add_argument('repro_num', metavar='repro_num', type=float, help='Reproduction number as float')
-    parser.add_argument('initial_infected', metavar='initial_infected', type=int, help='Intially infected as integer')
-    args = parser.parse_args()
+    # # To enable CLI inputs
+    # parser = argparse.ArgumentParser()
+    # parser.add_argument('pop_size', metavar='pop_size', type=int, help='Population size as integer')
+    # parser.add_argument('vacc_percentage', metavar='vacc_percentage', type=float, help='Vaccination percentage as float')
+    # parser.add_argument('virus_name', metavar='virus_name', type=str, help='Virus name as string')
+    # parser.add_argument('mortality_rate', metavar='mortality_rate', type=float, help='Mortality rate as float')
+    # parser.add_argument('repro_num', metavar='repro_num', type=float, help='Reproduction number as float')
+    # parser.add_argument('initial_infected', metavar='initial_infected', type=int, help='Intially infected as integer')
+    # args = parser.parse_args()
     
-    virus_name = args.virus_name
-    repro_num = args.repro_num
-    mortality_rate = args.mortality_rate
-    pop_size = args.pop_size
-    vacc_percentage = args.vacc_percentage
-    initial_infected = args.initial_infected
+    # virus_name = args.virus_name
+    # repro_num = args.repro_num
+    # mortality_rate = args.mortality_rate
+    # pop_size = args.pop_size
+    # vacc_percentage = args.vacc_percentage
+    # initial_infected = args.initial_infected
 
     # Make a new instance of the simulation
     virus = Virus(virus_name, repro_num, mortality_rate)

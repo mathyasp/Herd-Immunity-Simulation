@@ -83,7 +83,7 @@ class Logger(object):
         # Number of interactions that resulted in vaccination
         # Number of interactions that resulted in death" - ## Omitted ## 
             # - This is the same as total dead since nobody was dead prior to the simulation
-    def log_final_stats(self, surivor_count, fatality_count, total_vaccinated_count, reason_for_ending, interaction_count, new_vaccinated_count):
+    def log_final_stats(self, surivor_count, fatality_count, total_vaccinated_count, reason_for_ending, interaction_count, new_vaccinated_count, newly_infected_count, initial_population, vaccine_saves):
         log = open(self.file_name, 'a')
         log.write('-~-~-~-~-~-~-~-~-~-~-~-~-~-\n'
                             f'\nNumber of Survivors: {surivor_count}\n'
@@ -91,5 +91,8 @@ class Logger(object):
                             f'Total Number of Vaccinations: {total_vaccinated_count}\n'
                             f'Reason for Simulation Ending: {reason_for_ending}\n'
                             f'Total Number of Interactions: {interaction_count}\n'
-                            f'Newly Vaccinated Count: {new_vaccinated_count}\n')
+                            f'Newly Vaccinated Count: {new_vaccinated_count}\n'
+                            f'Perecentage of Population That Became Infected: {round(newly_infected_count / initial_population * 100, 2)}%\n'
+                            f'Perecentage of Population That Died: {round(fatality_count / initial_population * 100, 2)}%\n'
+                            f'Number of Lives Saved by Vaccinations: {vaccine_saves}\n')
         log.close()

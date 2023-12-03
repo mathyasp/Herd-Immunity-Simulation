@@ -1,0 +1,33 @@
+Population Size: 1000
+Vaccination Percentage: 0.1
+Virus Name: Sniffles
+Mortality Rate: 0.12
+Basic Reproduction Number: 0.5
+Date of Simulation: 10
+
+Number of New Infections: 10
+Number of New Deaths: 5
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 100
+Total Number of Deaths: 5
+Total Number of Vaccinations Administered: 10
+
+
+
+
+----------------------------
+Time Step Number: 1
+----------------------------
+-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+Number of Survivors: 100
+Total Number of Deaths: 5
+Total Number of Vaccinations: 10
+Reason for Simulation Ending: Everyone died
+Total Number of Interactions: 100
+Newly Vaccinated Count: 10
+Perecentage of Population That Became Infected: 2.0%
+Perecentage of Population That Died: 0.5%
+Number of Lives Saved by Vaccinations: 40

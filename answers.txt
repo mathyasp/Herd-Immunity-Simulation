@@ -1,0 +1,20 @@
+What were the inputs you gave the simulation? (Population size, percent vaccinated, virus name, mortality rate, reproductive rate)
+
+    - Population size: 100,000
+    - Percent vaccinated: 45%
+    - Virus Name: Covid
+    - Mortality Rate: 0.2
+    - Reproductive Rate: 0.6
+    - People Initially Infected: 100
+
+What percentage of the population became infected at some point before the virus burned out?
+
+    - Percentage Infected: 10.98%
+
+What percentage of the population died from the virus?
+
+    - Percentage The Died: 11.59%
+
+Out of all interactions sick individuals had during the entire simulation, how many times, in total, did a vaccination save someone from potentially becoming infected?
+
+    - Total Vaccine Saves: 45,148
