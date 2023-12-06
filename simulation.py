@@ -1,4 +1,5 @@
 import random, sys, math, argparse
+import matplotlib.pyplot as plt
 # random.seed(42)
 from datetime import date
 from person import Person
@@ -18,7 +19,7 @@ class Simulation(object):
         self.pop_size = pop_size
         # TODO: Store the vacc_percentage in a variable
         self.vacc_percentage = vacc_percentage
-        self.initial_vaccination_count = math.floor(self.pop_size * self.vacc_percentage)
+        self.initial_vaccination_count = math.floor(self.pop_size * (self.vacc_percentage/100))
         self.array_of_infected = []
         # TODO: Store initial_infected in a variable
         self.initial_infected = initial_infected
@@ -33,7 +34,11 @@ class Simulation(object):
         self.newly_dead = []
         self.interaction_count = 0
         self.vaccine_saves = 0
-
+        # Matplotlib arrays
+        self.infections_plot_values = [self.initial_infected]
+        self.deaths_plot_values = [0]
+        self.vaccinations_plot_values = [self.initial_vaccination_count]
+        self.pop_size_plot_values = [self.pop_size]
 
 
     def _create_population(self):
@@ -100,6 +105,7 @@ class Simulation(object):
         total_vaccination_count = self.vaccination_count + self.initial_vaccination_count
         reason_for_ending = 'The entire population has died.' if fatality_count == len(self.population) else 'All living people have been vaccinated.'
         self.logger.log_final_stats(self.pop_size, fatality_count, total_vaccination_count, reason_for_ending, self.interaction_count, self.vaccination_count, newly_infected_count, len(self.population), self.vaccine_saves)
+        self.plot_simulation_results()
 
 
     def time_step(self, time_step_counter):
@@ -123,6 +129,12 @@ class Simulation(object):
         self._infect_newly_infected()
         fatality_count = len(self.population) - self.pop_size
         self.logger.log_interactions(len(self.newly_infected), len(self.newly_dead))
+        # Append the values to the plot arrays
+        self.infections_plot_values.append(self.infections_plot_values[-1] + len(self.newly_infected))
+        self.deaths_plot_values.append(fatality_count)
+        self.vaccinations_plot_values.append(self.vaccination_count)
+        self.pop_size_plot_values.append(self.pop_size)
+        # Clear tracking arrays and log the infection survival
         self.newly_infected = []
         self.newly_dead = []
         self.logger.log_infection_survival(self.pop_size, fatality_count, self.vaccination_count)
@@ -169,33 +181,81 @@ class Simulation(object):
                 self.newly_dead.append(person)
 
 
+    def plot_simulation_results(self):
+        # Plot infections
+        plt.plot(self.infections_plot_values, label='Infections')
+
+        # Plot deaths
+        plt.plot(self.deaths_plot_values, label='Deaths')
+
+        # Plot vaccinations
+        plt.plot(self.vaccinations_plot_values, label='Vaccinations')
+
+        # Plot population size
+        plt.plot(self.pop_size_plot_values, label='Population Size')
+
+        # Add labels and title
+        plt.xlabel('Time Step')
+        plt.ylabel('Count')
+        plt.title('Herd Immunity Simulation')
+
+        # Add legend
+        plt.legend()
+
+        # Show the plot
+        plt.show()
+        # Plot infections
+        plt.plot(self.infections_plot_values, label='Infections')
+
+        # Plot deaths
+        plt.plot(self.deaths_plot_values, label='Deaths')
+
+        # Plot vaccinations
+        plt.plot(self.vaccinations_plot_values, label='Vaccinations')
+
+        # Plot population size
+        plt.plot(self.pop_size_plot_values, label='Population Size')
+
+        # Add labels and title
+        plt.xlabel('Time Step')
+        plt.ylabel('Count')
+        title_name = f'Herd Immunity Simulation - {virus.name}'
+        plt.title(title_name)  
+
+        # Add legend
+        plt.legend()
+
+        # Show the plot
+        plt.show()
+
+
 if __name__ == '__main__':
     # Test your simulation here
-    virus_name = 'Sniffles'
-    repro_num = 0.5
-    mortality_rate = 0.12
+    # virus_name = 'Sniffles'
+    # repro_num = 0.5
+    # mortality_rate = 0.12
 
     # Set some values used by the simulation
-    pop_size = 1000
-    vacc_percentage = 0.1
-    initial_infected = 10
+    # pop_size = 1000
+    # vacc_percentage = 10
+    # initial_infected = 10
 
-    # # To enable CLI inputs
-    # parser = argparse.ArgumentParser()
-    # parser.add_argument('pop_size', metavar='pop_size', type=int, help='Population size as integer')
-    # parser.add_argument('vacc_percentage', metavar='vacc_percentage', type=float, help='Vaccination percentage as float')
-    # parser.add_argument('virus_name', metavar='virus_name', type=str, help='Virus name as string')
-    # parser.add_argument('mortality_rate', metavar='mortality_rate', type=float, help='Mortality rate as float')
-    # parser.add_argument('repro_num', metavar='repro_num', type=float, help='Reproduction number as float')
-    # parser.add_argument('initial_infected', metavar='initial_infected', type=int, help='Intially infected as integer')
-    # args = parser.parse_args()
+    # To enable CLI inputs
+    parser = argparse.ArgumentParser()
+    parser.add_argument('pop_size', metavar='pop_size', type=int, help='Population size as integer')
+    parser.add_argument('vacc_percentage', metavar='vacc_percentage', type=float, help='Vaccination percentage as float')
+    parser.add_argument('virus_name', metavar='virus_name', type=str, help='Virus name as string')
+    parser.add_argument('mortality_rate', metavar='mortality_rate', type=float, help='Mortality rate as float')
+    parser.add_argument('repro_num', metavar='repro_num', type=float, help='Reproduction number as float')
+    parser.add_argument('initial_infected', metavar='initial_infected', type=int, help='Intially infected as integer')
+    args = parser.parse_args()
     
-    # virus_name = args.virus_name
-    # repro_num = args.repro_num
-    # mortality_rate = args.mortality_rate
-    # pop_size = args.pop_size
-    # vacc_percentage = args.vacc_percentage
-    # initial_infected = args.initial_infected
+    virus_name = args.virus_name
+    repro_num = args.repro_num
+    mortality_rate = args.mortality_rate
+    pop_size = args.pop_size
+    vacc_percentage = args.vacc_percentage
+    initial_infected = args.initial_infected
 
     # Make a new instance of the simulation
     virus = Virus(virus_name, repro_num, mortality_rate)

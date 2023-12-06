@@ -57,6 +57,7 @@ class Logger(object):
         # TODO: Finish this method. If the person survives, did_die_from_infection
         # should be False.  Otherwise, did_die_from_infection should be True.
         # Append the results of the infection to the logfile
+        
         log = open(self.file_name, 'a')
         log.write('\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n'
                             f'\nCurrent Population Count: {population_count}\n'
@@ -96,3 +97,6 @@ class Logger(object):
                             f'Perecentage of Population That Died: {round(fatality_count / initial_population * 100, 2)}%\n'
                             f'Number of Lives Saved by Vaccinations: {vaccine_saves}\n')
         log.close()
+
+
+    
