@@ -1,0 +1,2673 @@
+Population Size: 100000
+Vaccination Percentage: 0.45
+Virus Name: Covid
+Mortality Rate: 0.2
+Basic Reproduction Number: 0.6
+Date of Simulation: 2023-12-05
+
+
+----------------------------
+Time Step Number: 1
+----------------------------
+
+Number of New Infections: 5962
+Number of New Deaths: 1236
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 98764
+Total Number of Deaths: 1236
+Total Number of Vaccinations Administered: 4726
+
+
+
+
+----------------------------
+Time Step Number: 2
+----------------------------
+
+Number of New Infections: 5649
+Number of New Deaths: 1176
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 97588
+Total Number of Deaths: 2412
+Total Number of Vaccinations Administered: 9199
+
+
+
+
+----------------------------
+Time Step Number: 3
+----------------------------
+
+Number of New Infections: 5389
+Number of New Deaths: 1109
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 96479
+Total Number of Deaths: 3521
+Total Number of Vaccinations Administered: 13479
+
+
+
+
+----------------------------
+Time Step Number: 4
+----------------------------
+
+Number of New Infections: 5275
+Number of New Deaths: 1030
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 95449
+Total Number of Deaths: 4551
+Total Number of Vaccinations Administered: 17724
+
+
+
+
+----------------------------
+Time Step Number: 5
+----------------------------
+
+Number of New Infections: 4876
+Number of New Deaths: 985
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 94464
+Total Number of Deaths: 5536
+Total Number of Vaccinations Administered: 21615
+
+
+
+
+----------------------------
+Time Step Number: 6
+----------------------------
+
+Number of New Infections: 4660
+Number of New Deaths: 987
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 93477
+Total Number of Deaths: 6523
+Total Number of Vaccinations Administered: 25288
+
+
+
+
+----------------------------
+Time Step Number: 7
+----------------------------
+
+Number of New Infections: 4409
+Number of New Deaths: 905
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 92572
+Total Number of Deaths: 7428
+Total Number of Vaccinations Administered: 28792
+
+
+
+
+----------------------------
+Time Step Number: 8
+----------------------------
+
+Number of New Infections: 4194
+Number of New Deaths: 883
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 91689
+Total Number of Deaths: 8311
+Total Number of Vaccinations Administered: 32103
+
+
+
+
+----------------------------
+Time Step Number: 9
+----------------------------
+
+Number of New Infections: 3898
+Number of New Deaths: 823
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 90866
+Total Number of Deaths: 9134
+Total Number of Vaccinations Administered: 35178
+
+
+
+
+----------------------------
+Time Step Number: 10
+----------------------------
+
+Number of New Infections: 3788
+Number of New Deaths: 797
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 90069
+Total Number of Deaths: 9931
+Total Number of Vaccinations Administered: 38169
+
+
+
+
+----------------------------
+Time Step Number: 11
+----------------------------
+
+Number of New Infections: 3522
+Number of New Deaths: 704
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 89365
+Total Number of Deaths: 10635
+Total Number of Vaccinations Administered: 40987
+
+
+
+
+----------------------------
+Time Step Number: 12
+----------------------------
+
+Number of New Infections: 3243
+Number of New Deaths: 672
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 88693
+Total Number of Deaths: 11307
+Total Number of Vaccinations Administered: 43558
+
+
+
+
+----------------------------
+Time Step Number: 13
+----------------------------
+
+Number of New Infections: 3114
+Number of New Deaths: 657
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 88036
+Total Number of Deaths: 11964
+Total Number of Vaccinations Administered: 46015
+
+
+
+
+----------------------------
+Time Step Number: 14
+----------------------------
+
+Number of New Infections: 2968
+Number of New Deaths: 626
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 87410
+Total Number of Deaths: 12590
+Total Number of Vaccinations Administered: 48357
+
+
+
+
+----------------------------
+Time Step Number: 15
+----------------------------
+
+Number of New Infections: 2754
+Number of New Deaths: 590
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 86820
+Total Number of Deaths: 13180
+Total Number of Vaccinations Administered: 50521
+
+
+
+
+----------------------------
+Time Step Number: 16
+----------------------------
+
+Number of New Infections: 2532
+Number of New Deaths: 530
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 86290
+Total Number of Deaths: 13710
+Total Number of Vaccinations Administered: 52523
+
+
+
+
+----------------------------
+Time Step Number: 17
+----------------------------
+
+Number of New Infections: 2517
+Number of New Deaths: 539
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 85751
+Total Number of Deaths: 14249
+Total Number of Vaccinations Administered: 54501
+
+
+
+
+----------------------------
+Time Step Number: 18
+----------------------------
+
+Number of New Infections: 2235
+Number of New Deaths: 459
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 85292
+Total Number of Deaths: 14708
+Total Number of Vaccinations Administered: 56277
+
+
+
+
+----------------------------
+Time Step Number: 19
+----------------------------
+
+Number of New Infections: 2137
+Number of New Deaths: 422
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 84870
+Total Number of Deaths: 15130
+Total Number of Vaccinations Administered: 57992
+
+
+
+
+----------------------------
+Time Step Number: 20
+----------------------------
+
+Number of New Infections: 2009
+Number of New Deaths: 407
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 84463
+Total Number of Deaths: 15537
+Total Number of Vaccinations Administered: 59594
+
+
+
+
+----------------------------
+Time Step Number: 21
+----------------------------
+
+Number of New Infections: 1874
+Number of New Deaths: 385
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 84078
+Total Number of Deaths: 15922
+Total Number of Vaccinations Administered: 61083
+
+
+
+
+----------------------------
+Time Step Number: 22
+----------------------------
+
+Number of New Infections: 1787
+Number of New Deaths: 391
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 83687
+Total Number of Deaths: 16313
+Total Number of Vaccinations Administered: 62479
+
+
+
+
+----------------------------
+Time Step Number: 23
+----------------------------
+
+Number of New Infections: 1658
+Number of New Deaths: 339
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 83348
+Total Number of Deaths: 16652
+Total Number of Vaccinations Administered: 63798
+
+
+
+
+----------------------------
+Time Step Number: 24
+----------------------------
+
+Number of New Infections: 1597
+Number of New Deaths: 335
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 83013
+Total Number of Deaths: 16987
+Total Number of Vaccinations Administered: 65060
+
+
+
+
+----------------------------
+Time Step Number: 25
+----------------------------
+
+Number of New Infections: 1420
+Number of New Deaths: 305
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 82708
+Total Number of Deaths: 17292
+Total Number of Vaccinations Administered: 66175
+
+
+
+
+----------------------------
+Time Step Number: 26
+----------------------------
+
+Number of New Infections: 1351
+Number of New Deaths: 285
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 82423
+Total Number of Deaths: 17577
+Total Number of Vaccinations Administered: 67241
+
+
+
+
+----------------------------
+Time Step Number: 27
+----------------------------
+
+Number of New Infections: 1238
+Number of New Deaths: 245
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 82178
+Total Number of Deaths: 17822
+Total Number of Vaccinations Administered: 68234
+
+
+
+
+----------------------------
+Time Step Number: 28
+----------------------------
+
+Number of New Infections: 1136
+Number of New Deaths: 209
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 81969
+Total Number of Deaths: 18031
+Total Number of Vaccinations Administered: 69161
+
+
+
+
+----------------------------
+Time Step Number: 29
+----------------------------
+
+Number of New Infections: 1098
+Number of New Deaths: 225
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 81744
+Total Number of Deaths: 18256
+Total Number of Vaccinations Administered: 70034
+
+
+
+
+----------------------------
+Time Step Number: 30
+----------------------------
+
+Number of New Infections: 1076
+Number of New Deaths: 231
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 81513
+Total Number of Deaths: 18487
+Total Number of Vaccinations Administered: 70879
+
+
+
+
+----------------------------
+Time Step Number: 31
+----------------------------
+
+Number of New Infections: 911
+Number of New Deaths: 161
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 81352
+Total Number of Deaths: 18648
+Total Number of Vaccinations Administered: 71629
+
+
+
+
+----------------------------
+Time Step Number: 32
+----------------------------
+
+Number of New Infections: 894
+Number of New Deaths: 183
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 81169
+Total Number of Deaths: 18831
+Total Number of Vaccinations Administered: 72340
+
+
+
+
+----------------------------
+Time Step Number: 33
+----------------------------
+
+Number of New Infections: 831
+Number of New Deaths: 163
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 81006
+Total Number of Deaths: 18994
+Total Number of Vaccinations Administered: 73008
+
+
+
+
+----------------------------
+Time Step Number: 34
+----------------------------
+
+Number of New Infections: 786
+Number of New Deaths: 172
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 80834
+Total Number of Deaths: 19166
+Total Number of Vaccinations Administered: 73622
+
+
+
+
+----------------------------
+Time Step Number: 35
+----------------------------
+
+Number of New Infections: 695
+Number of New Deaths: 145
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 80689
+Total Number of Deaths: 19311
+Total Number of Vaccinations Administered: 74172
+
+
+
+
+----------------------------
+Time Step Number: 36
+----------------------------
+
+Number of New Infections: 639
+Number of New Deaths: 115
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 80574
+Total Number of Deaths: 19426
+Total Number of Vaccinations Administered: 74696
+
+
+
+
+----------------------------
+Time Step Number: 37
+----------------------------
+
+Number of New Infections: 650
+Number of New Deaths: 128
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 80446
+Total Number of Deaths: 19554
+Total Number of Vaccinations Administered: 75218
+
+
+
+
+----------------------------
+Time Step Number: 38
+----------------------------
+
+Number of New Infections: 603
+Number of New Deaths: 112
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 80334
+Total Number of Deaths: 19666
+Total Number of Vaccinations Administered: 75709
+
+
+
+
+----------------------------
+Time Step Number: 39
+----------------------------
+
+Number of New Infections: 569
+Number of New Deaths: 134
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 80200
+Total Number of Deaths: 19800
+Total Number of Vaccinations Administered: 76144
+
+
+
+
+----------------------------
+Time Step Number: 40
+----------------------------
+
+Number of New Infections: 529
+Number of New Deaths: 107
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 80093
+Total Number of Deaths: 19907
+Total Number of Vaccinations Administered: 76566
+
+
+
+
+----------------------------
+Time Step Number: 41
+----------------------------
+
+Number of New Infections: 430
+Number of New Deaths: 95
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 79998
+Total Number of Deaths: 20002
+Total Number of Vaccinations Administered: 76901
+
+
+
+
+----------------------------
+Time Step Number: 42
+----------------------------
+
+Number of New Infections: 447
+Number of New Deaths: 80
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 79918
+Total Number of Deaths: 20082
+Total Number of Vaccinations Administered: 77268
+
+
+
+
+----------------------------
+Time Step Number: 43
+----------------------------
+
+Number of New Infections: 401
+Number of New Deaths: 80
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 79838
+Total Number of Deaths: 20162
+Total Number of Vaccinations Administered: 77589
+
+
+
+
+----------------------------
+Time Step Number: 44
+----------------------------
+
+Number of New Infections: 354
+Number of New Deaths: 80
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 79758
+Total Number of Deaths: 20242
+Total Number of Vaccinations Administered: 77863
+
+
+
+
+----------------------------
+Time Step Number: 45
+----------------------------
+
+Number of New Infections: 343
+Number of New Deaths: 68
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 79690
+Total Number of Deaths: 20310
+Total Number of Vaccinations Administered: 78138
+
+
+
+
+----------------------------
+Time Step Number: 46
+----------------------------
+
+Number of New Infections: 308
+Number of New Deaths: 73
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 79617
+Total Number of Deaths: 20383
+Total Number of Vaccinations Administered: 78373
+
+
+
+
+----------------------------
+Time Step Number: 47
+----------------------------
+
+Number of New Infections: 283
+Number of New Deaths: 59
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 79558
+Total Number of Deaths: 20442
+Total Number of Vaccinations Administered: 78597
+
+
+
+
+----------------------------
+Time Step Number: 48
+----------------------------
+
+Number of New Infections: 308
+Number of New Deaths: 63
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 79495
+Total Number of Deaths: 20505
+Total Number of Vaccinations Administered: 78842
+
+
+
+
+----------------------------
+Time Step Number: 49
+----------------------------
+
+Number of New Infections: 256
+Number of New Deaths: 55
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 79440
+Total Number of Deaths: 20560
+Total Number of Vaccinations Administered: 79043
+
+
+
+
+----------------------------
+Time Step Number: 50
+----------------------------
+
+Number of New Infections: 251
+Number of New Deaths: 54
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 79386
+Total Number of Deaths: 20614
+Total Number of Vaccinations Administered: 79240
+
+
+
+
+----------------------------
+Time Step Number: 51
+----------------------------
+
+Number of New Infections: 233
+Number of New Deaths: 60
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 79326
+Total Number of Deaths: 20674
+Total Number of Vaccinations Administered: 79413
+
+
+
+
+----------------------------
+Time Step Number: 52
+----------------------------
+
+Number of New Infections: 212
+Number of New Deaths: 48
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 79278
+Total Number of Deaths: 20722
+Total Number of Vaccinations Administered: 79577
+
+
+
+
+----------------------------
+Time Step Number: 53
+----------------------------
+
+Number of New Infections: 185
+Number of New Deaths: 31
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 79247
+Total Number of Deaths: 20753
+Total Number of Vaccinations Administered: 79731
+
+
+
+
+----------------------------
+Time Step Number: 54
+----------------------------
+
+Number of New Infections: 194
+Number of New Deaths: 46
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 79201
+Total Number of Deaths: 20799
+Total Number of Vaccinations Administered: 79879
+
+
+
+
+----------------------------
+Time Step Number: 55
+----------------------------
+
+Number of New Infections: 167
+Number of New Deaths: 34
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 79167
+Total Number of Deaths: 20833
+Total Number of Vaccinations Administered: 80012
+
+
+
+
+----------------------------
+Time Step Number: 56
+----------------------------
+
+Number of New Infections: 145
+Number of New Deaths: 26
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 79141
+Total Number of Deaths: 20859
+Total Number of Vaccinations Administered: 80131
+
+
+
+
+----------------------------
+Time Step Number: 57
+----------------------------
+
+Number of New Infections: 141
+Number of New Deaths: 31
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 79110
+Total Number of Deaths: 20890
+Total Number of Vaccinations Administered: 80241
+
+
+
+
+----------------------------
+Time Step Number: 58
+----------------------------
+
+Number of New Infections: 114
+Number of New Deaths: 29
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 79081
+Total Number of Deaths: 20919
+Total Number of Vaccinations Administered: 80326
+
+
+
+
+----------------------------
+Time Step Number: 59
+----------------------------
+
+Number of New Infections: 133
+Number of New Deaths: 29
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 79052
+Total Number of Deaths: 20948
+Total Number of Vaccinations Administered: 80430
+
+
+
+
+----------------------------
+Time Step Number: 60
+----------------------------
+
+Number of New Infections: 111
+Number of New Deaths: 24
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 79028
+Total Number of Deaths: 20972
+Total Number of Vaccinations Administered: 80517
+
+
+
+
+----------------------------
+Time Step Number: 61
+----------------------------
+
+Number of New Infections: 114
+Number of New Deaths: 20
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 79008
+Total Number of Deaths: 20992
+Total Number of Vaccinations Administered: 80611
+
+
+
+
+----------------------------
+Time Step Number: 62
+----------------------------
+
+Number of New Infections: 89
+Number of New Deaths: 17
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78991
+Total Number of Deaths: 21009
+Total Number of Vaccinations Administered: 80683
+
+
+
+
+----------------------------
+Time Step Number: 63
+----------------------------
+
+Number of New Infections: 93
+Number of New Deaths: 17
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78974
+Total Number of Deaths: 21026
+Total Number of Vaccinations Administered: 80759
+
+
+
+
+----------------------------
+Time Step Number: 64
+----------------------------
+
+Number of New Infections: 78
+Number of New Deaths: 16
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78958
+Total Number of Deaths: 21042
+Total Number of Vaccinations Administered: 80821
+
+
+
+
+----------------------------
+Time Step Number: 65
+----------------------------
+
+Number of New Infections: 92
+Number of New Deaths: 13
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78945
+Total Number of Deaths: 21055
+Total Number of Vaccinations Administered: 80900
+
+
+
+
+----------------------------
+Time Step Number: 66
+----------------------------
+
+Number of New Infections: 75
+Number of New Deaths: 18
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78927
+Total Number of Deaths: 21073
+Total Number of Vaccinations Administered: 80957
+
+
+
+
+----------------------------
+Time Step Number: 67
+----------------------------
+
+Number of New Infections: 65
+Number of New Deaths: 10
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78917
+Total Number of Deaths: 21083
+Total Number of Vaccinations Administered: 81012
+
+
+
+
+----------------------------
+Time Step Number: 68
+----------------------------
+
+Number of New Infections: 54
+Number of New Deaths: 13
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78904
+Total Number of Deaths: 21096
+Total Number of Vaccinations Administered: 81053
+
+
+
+
+----------------------------
+Time Step Number: 69
+----------------------------
+
+Number of New Infections: 52
+Number of New Deaths: 18
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78886
+Total Number of Deaths: 21114
+Total Number of Vaccinations Administered: 81087
+
+
+
+
+----------------------------
+Time Step Number: 70
+----------------------------
+
+Number of New Infections: 60
+Number of New Deaths: 10
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78876
+Total Number of Deaths: 21124
+Total Number of Vaccinations Administered: 81137
+
+
+
+
+----------------------------
+Time Step Number: 71
+----------------------------
+
+Number of New Infections: 44
+Number of New Deaths: 9
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78867
+Total Number of Deaths: 21133
+Total Number of Vaccinations Administered: 81172
+
+
+
+
+----------------------------
+Time Step Number: 72
+----------------------------
+
+Number of New Infections: 39
+Number of New Deaths: 8
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78859
+Total Number of Deaths: 21141
+Total Number of Vaccinations Administered: 81203
+
+
+
+
+----------------------------
+Time Step Number: 73
+----------------------------
+
+Number of New Infections: 33
+Number of New Deaths: 6
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78853
+Total Number of Deaths: 21147
+Total Number of Vaccinations Administered: 81230
+
+
+
+
+----------------------------
+Time Step Number: 74
+----------------------------
+
+Number of New Infections: 37
+Number of New Deaths: 9
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78844
+Total Number of Deaths: 21156
+Total Number of Vaccinations Administered: 81258
+
+
+
+
+----------------------------
+Time Step Number: 75
+----------------------------
+
+Number of New Infections: 36
+Number of New Deaths: 7
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78837
+Total Number of Deaths: 21163
+Total Number of Vaccinations Administered: 81287
+
+
+
+
+----------------------------
+Time Step Number: 76
+----------------------------
+
+Number of New Infections: 36
+Number of New Deaths: 7
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78830
+Total Number of Deaths: 21170
+Total Number of Vaccinations Administered: 81316
+
+
+
+
+----------------------------
+Time Step Number: 77
+----------------------------
+
+Number of New Infections: 32
+Number of New Deaths: 7
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78823
+Total Number of Deaths: 21177
+Total Number of Vaccinations Administered: 81341
+
+
+
+
+----------------------------
+Time Step Number: 78
+----------------------------
+
+Number of New Infections: 42
+Number of New Deaths: 6
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78817
+Total Number of Deaths: 21183
+Total Number of Vaccinations Administered: 81377
+
+
+
+
+----------------------------
+Time Step Number: 79
+----------------------------
+
+Number of New Infections: 26
+Number of New Deaths: 9
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78808
+Total Number of Deaths: 21192
+Total Number of Vaccinations Administered: 81394
+
+
+
+
+----------------------------
+Time Step Number: 80
+----------------------------
+
+Number of New Infections: 29
+Number of New Deaths: 4
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78804
+Total Number of Deaths: 21196
+Total Number of Vaccinations Administered: 81419
+
+
+
+
+----------------------------
+Time Step Number: 81
+----------------------------
+
+Number of New Infections: 17
+Number of New Deaths: 5
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78799
+Total Number of Deaths: 21201
+Total Number of Vaccinations Administered: 81431
+
+
+
+
+----------------------------
+Time Step Number: 82
+----------------------------
+
+Number of New Infections: 14
+Number of New Deaths: 3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78796
+Total Number of Deaths: 21204
+Total Number of Vaccinations Administered: 81442
+
+
+
+
+----------------------------
+Time Step Number: 83
+----------------------------
+
+Number of New Infections: 17
+Number of New Deaths: 5
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78791
+Total Number of Deaths: 21209
+Total Number of Vaccinations Administered: 81454
+
+
+
+
+----------------------------
+Time Step Number: 84
+----------------------------
+
+Number of New Infections: 22
+Number of New Deaths: 4
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78787
+Total Number of Deaths: 21213
+Total Number of Vaccinations Administered: 81472
+
+
+
+
+----------------------------
+Time Step Number: 85
+----------------------------
+
+Number of New Infections: 20
+Number of New Deaths: 3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78784
+Total Number of Deaths: 21216
+Total Number of Vaccinations Administered: 81489
+
+
+
+
+----------------------------
+Time Step Number: 86
+----------------------------
+
+Number of New Infections: 17
+Number of New Deaths: 4
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78780
+Total Number of Deaths: 21220
+Total Number of Vaccinations Administered: 81502
+
+
+
+
+----------------------------
+Time Step Number: 87
+----------------------------
+
+Number of New Infections: 13
+Number of New Deaths: 1
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78779
+Total Number of Deaths: 21221
+Total Number of Vaccinations Administered: 81514
+
+
+
+
+----------------------------
+Time Step Number: 88
+----------------------------
+
+Number of New Infections: 17
+Number of New Deaths: 5
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78774
+Total Number of Deaths: 21226
+Total Number of Vaccinations Administered: 81526
+
+
+
+
+----------------------------
+Time Step Number: 89
+----------------------------
+
+Number of New Infections: 9
+Number of New Deaths: 2
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78772
+Total Number of Deaths: 21228
+Total Number of Vaccinations Administered: 81533
+
+
+
+
+----------------------------
+Time Step Number: 90
+----------------------------
+
+Number of New Infections: 14
+Number of New Deaths: 5
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78767
+Total Number of Deaths: 21233
+Total Number of Vaccinations Administered: 81542
+
+
+
+
+----------------------------
+Time Step Number: 91
+----------------------------
+
+Number of New Infections: 7
+Number of New Deaths: 1
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78766
+Total Number of Deaths: 21234
+Total Number of Vaccinations Administered: 81548
+
+
+
+
+----------------------------
+Time Step Number: 92
+----------------------------
+
+Number of New Infections: 12
+Number of New Deaths: 4
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78762
+Total Number of Deaths: 21238
+Total Number of Vaccinations Administered: 81556
+
+
+
+
+----------------------------
+Time Step Number: 93
+----------------------------
+
+Number of New Infections: 6
+Number of New Deaths: 1
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78761
+Total Number of Deaths: 21239
+Total Number of Vaccinations Administered: 81561
+
+
+
+
+----------------------------
+Time Step Number: 94
+----------------------------
+
+Number of New Infections: 13
+Number of New Deaths: 4
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78757
+Total Number of Deaths: 21243
+Total Number of Vaccinations Administered: 81570
+
+
+
+
+----------------------------
+Time Step Number: 95
+----------------------------
+
+Number of New Infections: 5
+Number of New Deaths: 2
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78755
+Total Number of Deaths: 21245
+Total Number of Vaccinations Administered: 81573
+
+
+
+
+----------------------------
+Time Step Number: 96
+----------------------------
+
+Number of New Infections: 11
+Number of New Deaths: 2
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78753
+Total Number of Deaths: 21247
+Total Number of Vaccinations Administered: 81582
+
+
+
+
+----------------------------
+Time Step Number: 97
+----------------------------
+
+Number of New Infections: 1
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78753
+Total Number of Deaths: 21247
+Total Number of Vaccinations Administered: 81583
+
+
+
+
+----------------------------
+Time Step Number: 98
+----------------------------
+
+Number of New Infections: 5
+Number of New Deaths: 1
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78752
+Total Number of Deaths: 21248
+Total Number of Vaccinations Administered: 81587
+
+
+
+
+----------------------------
+Time Step Number: 99
+----------------------------
+
+Number of New Infections: 5
+Number of New Deaths: 3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78749
+Total Number of Deaths: 21251
+Total Number of Vaccinations Administered: 81589
+
+
+
+
+----------------------------
+Time Step Number: 100
+----------------------------
+
+Number of New Infections: 1
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78749
+Total Number of Deaths: 21251
+Total Number of Vaccinations Administered: 81590
+
+
+
+
+----------------------------
+Time Step Number: 101
+----------------------------
+
+Number of New Infections: 3
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78749
+Total Number of Deaths: 21251
+Total Number of Vaccinations Administered: 81593
+
+
+
+
+----------------------------
+Time Step Number: 102
+----------------------------
+
+Number of New Infections: 2
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78749
+Total Number of Deaths: 21251
+Total Number of Vaccinations Administered: 81595
+
+
+
+
+----------------------------
+Time Step Number: 103
+----------------------------
+
+Number of New Infections: 1
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78749
+Total Number of Deaths: 21251
+Total Number of Vaccinations Administered: 81596
+
+
+
+
+----------------------------
+Time Step Number: 104
+----------------------------
+
+Number of New Infections: 6
+Number of New Deaths: 2
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78747
+Total Number of Deaths: 21253
+Total Number of Vaccinations Administered: 81600
+
+
+
+
+----------------------------
+Time Step Number: 105
+----------------------------
+
+Number of New Infections: 3
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78747
+Total Number of Deaths: 21253
+Total Number of Vaccinations Administered: 81603
+
+
+
+
+----------------------------
+Time Step Number: 106
+----------------------------
+
+Number of New Infections: 6
+Number of New Deaths: 3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78744
+Total Number of Deaths: 21256
+Total Number of Vaccinations Administered: 81606
+
+
+
+
+----------------------------
+Time Step Number: 107
+----------------------------
+
+Number of New Infections: 4
+Number of New Deaths: 2
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78742
+Total Number of Deaths: 21258
+Total Number of Vaccinations Administered: 81608
+
+
+
+
+----------------------------
+Time Step Number: 108
+----------------------------
+
+Number of New Infections: 2
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78742
+Total Number of Deaths: 21258
+Total Number of Vaccinations Administered: 81610
+
+
+
+
+----------------------------
+Time Step Number: 109
+----------------------------
+
+Number of New Infections: 2
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78742
+Total Number of Deaths: 21258
+Total Number of Vaccinations Administered: 81612
+
+
+
+
+----------------------------
+Time Step Number: 110
+----------------------------
+
+Number of New Infections: 4
+Number of New Deaths: 1
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78741
+Total Number of Deaths: 21259
+Total Number of Vaccinations Administered: 81615
+
+
+
+
+----------------------------
+Time Step Number: 111
+----------------------------
+
+Number of New Infections: 3
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78741
+Total Number of Deaths: 21259
+Total Number of Vaccinations Administered: 81618
+
+
+
+
+----------------------------
+Time Step Number: 112
+----------------------------
+
+Number of New Infections: 2
+Number of New Deaths: 1
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78740
+Total Number of Deaths: 21260
+Total Number of Vaccinations Administered: 81619
+
+
+
+
+----------------------------
+Time Step Number: 113
+----------------------------
+
+Number of New Infections: 1
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78740
+Total Number of Deaths: 21260
+Total Number of Vaccinations Administered: 81620
+
+
+
+
+----------------------------
+Time Step Number: 114
+----------------------------
+
+Number of New Infections: 2
+Number of New Deaths: 1
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78739
+Total Number of Deaths: 21261
+Total Number of Vaccinations Administered: 81621
+
+
+
+
+----------------------------
+Time Step Number: 115
+----------------------------
+
+Number of New Infections: 1
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78739
+Total Number of Deaths: 21261
+Total Number of Vaccinations Administered: 81622
+
+
+
+
+----------------------------
+Time Step Number: 116
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78739
+Total Number of Deaths: 21261
+Total Number of Vaccinations Administered: 81622
+
+
+
+
+----------------------------
+Time Step Number: 117
+----------------------------
+
+Number of New Infections: 2
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78739
+Total Number of Deaths: 21261
+Total Number of Vaccinations Administered: 81624
+
+
+
+
+----------------------------
+Time Step Number: 118
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78739
+Total Number of Deaths: 21261
+Total Number of Vaccinations Administered: 81624
+
+
+
+
+----------------------------
+Time Step Number: 119
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78739
+Total Number of Deaths: 21261
+Total Number of Vaccinations Administered: 81624
+
+
+
+
+----------------------------
+Time Step Number: 120
+----------------------------
+
+Number of New Infections: 2
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78739
+Total Number of Deaths: 21261
+Total Number of Vaccinations Administered: 81626
+
+
+
+
+----------------------------
+Time Step Number: 121
+----------------------------
+
+Number of New Infections: 2
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78739
+Total Number of Deaths: 21261
+Total Number of Vaccinations Administered: 81628
+
+
+
+
+----------------------------
+Time Step Number: 122
+----------------------------
+
+Number of New Infections: 2
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78739
+Total Number of Deaths: 21261
+Total Number of Vaccinations Administered: 81630
+
+
+
+
+----------------------------
+Time Step Number: 123
+----------------------------
+
+Number of New Infections: 1
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78739
+Total Number of Deaths: 21261
+Total Number of Vaccinations Administered: 81631
+
+
+
+
+----------------------------
+Time Step Number: 124
+----------------------------
+
+Number of New Infections: 1
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78739
+Total Number of Deaths: 21261
+Total Number of Vaccinations Administered: 81632
+
+
+
+
+----------------------------
+Time Step Number: 125
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78739
+Total Number of Deaths: 21261
+Total Number of Vaccinations Administered: 81632
+
+
+
+
+----------------------------
+Time Step Number: 126
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78739
+Total Number of Deaths: 21261
+Total Number of Vaccinations Administered: 81632
+
+
+
+
+----------------------------
+Time Step Number: 127
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78739
+Total Number of Deaths: 21261
+Total Number of Vaccinations Administered: 81632
+
+
+
+
+----------------------------
+Time Step Number: 128
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78739
+Total Number of Deaths: 21261
+Total Number of Vaccinations Administered: 81632
+
+
+
+
+----------------------------
+Time Step Number: 129
+----------------------------
+
+Number of New Infections: 3
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78739
+Total Number of Deaths: 21261
+Total Number of Vaccinations Administered: 81635
+
+
+
+
+----------------------------
+Time Step Number: 130
+----------------------------
+
+Number of New Infections: 2
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78739
+Total Number of Deaths: 21261
+Total Number of Vaccinations Administered: 81637
+
+
+
+
+----------------------------
+Time Step Number: 131
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78739
+Total Number of Deaths: 21261
+Total Number of Vaccinations Administered: 81637
+
+
+
+
+----------------------------
+Time Step Number: 132
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78739
+Total Number of Deaths: 21261
+Total Number of Vaccinations Administered: 81637
+
+
+
+
+----------------------------
+Time Step Number: 133
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78739
+Total Number of Deaths: 21261
+Total Number of Vaccinations Administered: 81637
+
+
+
+
+----------------------------
+Time Step Number: 134
+----------------------------
+
+Number of New Infections: 1
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78739
+Total Number of Deaths: 21261
+Total Number of Vaccinations Administered: 81638
+
+
+
+
+----------------------------
+Time Step Number: 135
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78739
+Total Number of Deaths: 21261
+Total Number of Vaccinations Administered: 81638
+
+
+
+
+----------------------------
+Time Step Number: 136
+----------------------------
+
+Number of New Infections: 1
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78739
+Total Number of Deaths: 21261
+Total Number of Vaccinations Administered: 81639
+
+
+
+
+----------------------------
+Time Step Number: 137
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78739
+Total Number of Deaths: 21261
+Total Number of Vaccinations Administered: 81639
+
+
+
+
+----------------------------
+Time Step Number: 138
+----------------------------
+
+Number of New Infections: 1
+Number of New Deaths: 1
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78738
+Total Number of Deaths: 21262
+Total Number of Vaccinations Administered: 81639
+
+
+
+
+----------------------------
+Time Step Number: 139
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78738
+Total Number of Deaths: 21262
+Total Number of Vaccinations Administered: 81639
+
+
+
+
+----------------------------
+Time Step Number: 140
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78738
+Total Number of Deaths: 21262
+Total Number of Vaccinations Administered: 81639
+
+
+
+
+----------------------------
+Time Step Number: 141
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78738
+Total Number of Deaths: 21262
+Total Number of Vaccinations Administered: 81639
+
+
+
+
+----------------------------
+Time Step Number: 142
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78738
+Total Number of Deaths: 21262
+Total Number of Vaccinations Administered: 81639
+
+
+
+
+----------------------------
+Time Step Number: 143
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78738
+Total Number of Deaths: 21262
+Total Number of Vaccinations Administered: 81639
+
+
+
+
+----------------------------
+Time Step Number: 144
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78738
+Total Number of Deaths: 21262
+Total Number of Vaccinations Administered: 81639
+
+
+
+
+----------------------------
+Time Step Number: 145
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78738
+Total Number of Deaths: 21262
+Total Number of Vaccinations Administered: 81639
+
+
+
+
+----------------------------
+Time Step Number: 146
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78738
+Total Number of Deaths: 21262
+Total Number of Vaccinations Administered: 81639
+
+
+
+
+----------------------------
+Time Step Number: 147
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78738
+Total Number of Deaths: 21262
+Total Number of Vaccinations Administered: 81639
+
+
+
+
+----------------------------
+Time Step Number: 148
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78738
+Total Number of Deaths: 21262
+Total Number of Vaccinations Administered: 81639
+
+
+
+
+----------------------------
+Time Step Number: 149
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78738
+Total Number of Deaths: 21262
+Total Number of Vaccinations Administered: 81639
+
+
+
+
+----------------------------
+Time Step Number: 150
+----------------------------
+
+Number of New Infections: 1
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78738
+Total Number of Deaths: 21262
+Total Number of Vaccinations Administered: 81640
+
+
+
+
+----------------------------
+Time Step Number: 151
+----------------------------
+
+Number of New Infections: 1
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78738
+Total Number of Deaths: 21262
+Total Number of Vaccinations Administered: 81641
+
+
+
+
+----------------------------
+Time Step Number: 152
+----------------------------
+
+Number of New Infections: 1
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78738
+Total Number of Deaths: 21262
+Total Number of Vaccinations Administered: 81642
+
+
+
+
+----------------------------
+Time Step Number: 153
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78738
+Total Number of Deaths: 21262
+Total Number of Vaccinations Administered: 81642
+
+
+
+
+----------------------------
+Time Step Number: 154
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78738
+Total Number of Deaths: 21262
+Total Number of Vaccinations Administered: 81642
+
+
+
+
+----------------------------
+Time Step Number: 155
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78738
+Total Number of Deaths: 21262
+Total Number of Vaccinations Administered: 81642
+
+
+
+
+----------------------------
+Time Step Number: 156
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78738
+Total Number of Deaths: 21262
+Total Number of Vaccinations Administered: 81642
+
+
+
+
+----------------------------
+Time Step Number: 157
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78738
+Total Number of Deaths: 21262
+Total Number of Vaccinations Administered: 81642
+
+
+
+
+----------------------------
+Time Step Number: 158
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78738
+Total Number of Deaths: 21262
+Total Number of Vaccinations Administered: 81642
+
+
+
+
+----------------------------
+Time Step Number: 159
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78738
+Total Number of Deaths: 21262
+Total Number of Vaccinations Administered: 81642
+
+
+
+
+----------------------------
+Time Step Number: 160
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78738
+Total Number of Deaths: 21262
+Total Number of Vaccinations Administered: 81642
+
+
+
+
+----------------------------
+Time Step Number: 161
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78738
+Total Number of Deaths: 21262
+Total Number of Vaccinations Administered: 81642
+
+
+
+
+----------------------------
+Time Step Number: 162
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78738
+Total Number of Deaths: 21262
+Total Number of Vaccinations Administered: 81642
+
+
+
+
+----------------------------
+Time Step Number: 163
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78738
+Total Number of Deaths: 21262
+Total Number of Vaccinations Administered: 81642
+
+
+
+
+----------------------------
+Time Step Number: 164
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78738
+Total Number of Deaths: 21262
+Total Number of Vaccinations Administered: 81642
+
+
+
+
+----------------------------
+Time Step Number: 165
+----------------------------
+
+Number of New Infections: 0
+Number of New Deaths: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78738
+Total Number of Deaths: 21262
+Total Number of Vaccinations Administered: 81642
+
+
+
+
+----------------------------
+Time Step Number: 166
+----------------------------
+
+Number of New Infections: 1
+Number of New Deaths: 1
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Population Count: 78737
+Total Number of Deaths: 21263
+Total Number of Vaccinations Administered: 81642
+
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+Number of Survivors: 78737
+Total Number of Deaths: 21263
+Total Number of Vaccinations: 82092
+Reason for Simulation Ending: All living people have been vaccinated.
+Total Number of Interactions: 1660000
+Newly Vaccinated Count: 81642
+Perecentage of Population That Became Infected: 20.06%
+Perecentage of Population That Died: 21.26%
+Number of Lives Saved by Vaccinations: 81642

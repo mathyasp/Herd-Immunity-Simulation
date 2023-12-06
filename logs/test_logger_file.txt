@@ -3,7 +3,7 @@ Vaccination Percentage: 0.1
 Virus Name: Sniffles
 Mortality Rate: 0.12
 Basic Reproduction Number: 0.5
-Date of Simulation: 10
+Date of Simulation: 10/10/2023
 
 Number of New Infections: 10
 Number of New Deaths: 5

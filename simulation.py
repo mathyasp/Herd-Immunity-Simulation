@@ -2,6 +2,7 @@ import random, sys, math, argparse
 import matplotlib.pyplot as plt
 # random.seed(42)
 from datetime import date
+sys.path.append('../classes/')
 from person import Person
 from logger import Logger
 from virus import Virus
@@ -11,7 +12,7 @@ class Simulation(object):
     def __init__(self, virus, pop_size, vacc_percentage, initial_infected=1):
         # TODO: Create a Logger object and bind it to self.logger.
         # Remember to call the appropriate logger method in the corresponding parts of the simulation.
-        self.logger = Logger(f'{virus.name}_log_file.txt')
+        self.logger = Logger(f'./logs/{virus.name}_log_file.txt')
         
         # TODO: Store the virus in an attribute
         self.virus = virus
